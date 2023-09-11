@@ -136,7 +136,7 @@ ul li a:hover{
 }
 #row2::before{
     content: '';
-    background: url('2.jpeg') no-repeat center center/cover;
+    background: url('images/price-list-template-menu-card-food-drinks-design-74473cf47bb41271a2e06d91d5103403_screen.jpg') no-repeat center center/cover;
     position: absolute;
     top: 0px;
     left:0px;
@@ -161,7 +161,7 @@ ul li a:hover{
 }
 #row3::before{
     content: '';
-    background: url('3.jpeg') no-repeat center center/cover;
+    background: url('images/DailySpecials_NewMenu2023-Online.jpg') no-repeat center center/cover;
     position: absolute;
     top:0px;
     left:0px;
@@ -185,7 +185,7 @@ ul li a:hover{
     width: 29vw;
     height: 360px;
     border: 2px solid black;
-    background:url('a1.jpeg') no-repeat center center/cover; 
+    background:url('images/Eggs-Kejriwal-Recipe.webp') no-repeat center center/cover; 
     display: flex;
     justify-content:center;
     align-items:flex-end;
@@ -195,7 +195,7 @@ ul li a:hover{
     width: 29vw;
     height: 360px;
     border: 2px solid black;
-    background:url('a2.jpeg') no-repeat center center/cover;
+    background:url('images/momos.webp') no-repeat center center/cover;
     display: flex;
     justify-content:center;
     align-items:flex-end;
@@ -205,7 +205,7 @@ ul li a:hover{
     width: 30vw;
     height: 360px;
     border: 2px solid black;
-    background:url('a3.jpeg') no-repeat center center/cover;
+    background:url('images/chicken-kebabs-recipe-1.jpg') no-repeat center center/cover;
     display: flex;
     justify-content:center;
     align-items:flex-end;
